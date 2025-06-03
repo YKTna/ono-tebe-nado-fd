@@ -274,8 +274,8 @@ html {
     margin: 137px 0px 13px 0px;
 }
 
-.about_title {
-    max-width: 100%;  
+.about_title { 
+    max-width: 100%;
     font-size: 40px;
     text-transform: uppercase;
     word-spacing: -2.5px;
@@ -294,7 +294,7 @@ html {
     line-height: 24px;
     font-family: 'Raleway', sans-serif;
     margin-top: 25px;
-    margin-bottom: 25px; 
+    margin-bottom: 25px;
 }
 
 .about_text_preamble {
