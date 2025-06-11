@@ -186,6 +186,7 @@ html {
     background-size: cover;
     background-position: center;
     width: 334px;
+    min-height: 596px;
     list-style: none;
 }
 
@@ -274,7 +275,6 @@ html {
     font-size: 20px;
     font-weight: 100;
     margin-right: 5px;
-    letter-spacing: 0.5px;
     line-height: 24px;
     font-family: 'Raleway', sans-serif;
     margin-top: 25px;
@@ -288,7 +288,7 @@ html {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 82px;
-    margin-top: 180px;
+    margin-top: 150px;
 }
 
 .footer__address {
